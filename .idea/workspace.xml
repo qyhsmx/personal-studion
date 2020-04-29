@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1305bc94-5f9d-42ef-a0e8-25158eab4662" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\QinYong\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven3.6/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven3.6\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vh9nybLMNoZtsR6AC5zmC05PYt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/billcode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qyy.test.impl" />
+      <recent name="com.qyy.test.domian" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sto gitlab\personal-studio\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRedisson.test_7">
+    <configuration name="TestRedisson.test_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal-studio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qyy.test.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qyy.test.rxjava" />
+      <option name="MAIN_CLASS_NAME" value="qyy.test.rxjava.TestRedisson" />
+      <option name="METHOD_NAME" value="test_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedisson.test_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal-studio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qyy.test.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qyy.test.rxjava" />
+      <option name="MAIN_CLASS_NAME" value="qyy.test.rxjava.TestRedisson" />
+      <option name="METHOD_NAME" value="test_4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedisson.test_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal-studio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qyy.test.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qyy.test.rxjava" />
+      <option name="MAIN_CLASS_NAME" value="qyy.test.rxjava.TestRedisson" />
+      <option name="METHOD_NAME" value="test_5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedisson.test_6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal-studio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qyy.test.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qyy.test.rxjava" />
+      <option name="MAIN_CLASS_NAME" value="qyy.test.rxjava.TestRedisson" />
+      <option name="METHOD_NAME" value="test_6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedisson.test_7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="personal-studio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qyy.test.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qyy.test.rxjava" />
+      <option name="MAIN_CLASS_NAME" value="qyy.test.rxjava.TestRedisson" />
+      <option name="METHOD_NAME" value="test_7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRedisson.test_7" />
+        <item itemvalue="JUnit.TestRedisson.test_6" />
+        <item itemvalue="JUnit.TestRedisson.test_4" />
+        <item itemvalue="JUnit.TestRedisson.test_5" />
+        <item itemvalue="JUnit.TestRedisson.test_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\QinYong\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1305bc94-5f9d-42ef-a0e8-25158eab4662" name="Default Changelist" comment="" />
+      <created>1577694630282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577694630282</updated>
+      <workItem from="1577694635954" duration="23128000" />
+      <workItem from="1577931875323" duration="7669000" />
+      <workItem from="1578013554093" duration="5472000" />
+      <workItem from="1578468841293" duration="173000" />
+      <workItem from="1578533362533" duration="10891000" />
+      <workItem from="1578893813338" duration="1921000" />
+      <workItem from="1578979061615" duration="208000" />
+      <workItem from="1585810501795" duration="8044000" />
+      <workItem from="1586326344994" duration="64000" />
+      <workItem from="1586921833408" duration="3472000" />
+      <workItem from="1587536578483" duration="20392000" />
+      <workItem from="1588044294763" duration="24984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="202" key="#Inspections" timestamp="1588055152631">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="586" y="202" key="#Inspections/0.0.1920.1049@0.0.1920.1049" timestamp="1588055152631" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1588039466398">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1049@0.0.1920.1049" timestamp="1588039466398" />
+    <state x="715" y="226" key="#xdebugger.evaluate" timestamp="1588142679435">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="715" y="226" key="#xdebugger.evaluate/0.0.1920.1049@0.0.1920.1049" timestamp="1588142679435" />
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1587539640887">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="421" height="466" key="DebuggerActiveHint/0.0.1920.1049@0.0.1920.1049" timestamp="1587539640887" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1588043755012">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1049@0.0.1920.1049" timestamp="1588043755012" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1588146991310">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1588146991310" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1588146991310">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1049@0.0.1920.1049" timestamp="1588146991310" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1588146991310">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1049@0.0.1920.1049" timestamp="1588146991310" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1588146991310">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1049@0.0.1920.1049" timestamp="1588146991310" />
+    <state width="1877" height="247" key="GridCell.Tab.1.bottom" timestamp="1588143459739">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1588143459739" />
+    <state width="1877" height="247" key="GridCell.Tab.1.center" timestamp="1588143459739">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.center/0.0.1920.1049@0.0.1920.1049" timestamp="1588143459739" />
+    <state width="1877" height="247" key="GridCell.Tab.1.left" timestamp="1588143459739">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.left/0.0.1920.1049@0.0.1920.1049" timestamp="1588143459739" />
+    <state width="1877" height="247" key="GridCell.Tab.1.right" timestamp="1588143459739">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.right/0.0.1920.1049@0.0.1920.1049" timestamp="1588143459739" />
+    <state x="540" y="258" key="IDE.errors.dialog" timestamp="1588138603552">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="540" y="258" key="IDE.errors.dialog/0.0.1920.1049@0.0.1920.1049" timestamp="1588138603552" />
+    <state x="453" y="168" key="SettingsEditor" timestamp="1588058515435">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="453" y="168" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1588058515435" />
+    <state x="681" y="265" width="564" height="524" key="StructurePopup" timestamp="1588044615070">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="681" y="265" width="564" height="524" key="StructurePopup/0.0.1920.1049@0.0.1920.1049" timestamp="1588044615070" />
+    <state width="895" height="727" key="javadoc.popup.new" timestamp="1588053972839">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="895" height="727" key="javadoc.popup.new/0.0.1920.1049@0.0.1920.1049" timestamp="1588053972839" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1588147994148">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1049@0.0.1920.1049" timestamp="1588147994148" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/locks/Lock.java</url>
+          <line>320</line>
+          <properties class="java.util.concurrent.locks.Lock" method="tryLock">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
